@@ -20,7 +20,8 @@
 <details>
   <summary>Click to see more</summary>
   <br>
-  <p></p>
+  <p>Embark on a journey with the Atlet Lider running team, where passion meets performance. Our website is a tribute to the dedication and spirit of our team members, guided by our exceptional coach who leads with expertise and inspiration. Explore our achievements, training programs, and upcoming events as we strive for excellence in every stride. Join our community of runners and experience the thrill of chasing your dreams one kilometer at a time!
+  </p>
 <details>
   <summary>What it looks like:</summary>
     <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/atlet-lider-images/homepage.png" alt="Home Page">
@@ -36,7 +37,7 @@
 <details>
   <summary>Click to see more</summary>
   <br>
-  <p></p>
+  <p>Discover the Simple Finance Website.</p>
 <details>
   <summary>What it looks like:</summary>
     <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/simple-finance-images/homepage.png" alt="Home Page">
@@ -48,14 +49,19 @@
 </details>
 </details>
 
- ## [Hobby Mate Welcome Page](https://hobbymate.netlify.app)
+### [HobbyMate Welcome Page](https://hobbymate.netlify.app)
 <details>
   <summary>Click to see more</summary>
   <br>
-  <p></p>
+  <p>Take a look at the HobbyMate Home Page</p>
 <details>
   <summary>What it looks like:</summary>
     <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/hobbymate-images/homepage.png" alt="Home Page">
 </details>
 </details>
+
 ---
+
+<a href="Your_LinkedIn_Profile_URL">
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" width="50">
+</a>
