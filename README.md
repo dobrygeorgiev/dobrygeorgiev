@@ -62,6 +62,10 @@
 
 ---
 
-<a href="Your_LinkedIn_Profile_URL">
+<a href="https://www.linkedin.com/in/dobri-georgiev-9b58b9189/">
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" width="50">
+</a>
+
+<a href="https://www.linkedin.com/in/dobri-georgiev-9b58b9189/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X(Twitter)" width="50">
 </a>
