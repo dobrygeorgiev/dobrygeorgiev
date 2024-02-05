@@ -5,8 +5,8 @@
 ### [FanMath Website](https://www.fanmath.net)
 <details>
   <summary>Click to see more</summary>
-  #### Images
 <details>
+  <summary>Images</summary>
     <img src="https://github.com/Dobry-Georgiev/sofia-museums/blob/main/preview-images/gallery-page.png" alt="Home Page">
 </details>
 </details>
