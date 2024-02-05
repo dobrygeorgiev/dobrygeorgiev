@@ -6,7 +6,7 @@
 <details>
   <summary>Click to see more</summary>
   [URL](https://www.fanmath.net)
-  [#### Images](https://github.com/Dobry-Georgiev/sofia-museums/blob/main/preview-images/gallery-page.png)
+  ![Images](https://github.com/Dobry-Georgiev/sofia-museums/blob/main/preview-images/gallery-page.png)
 <details>
   images
 </details>
