@@ -1,6 +1,6 @@
 # Welcome to my GITHUB profile 👋
 
-##Some of my work:
+## Some of my work:
 ---
 [FanMath Website](https://www.fanmath.net)
 ---
