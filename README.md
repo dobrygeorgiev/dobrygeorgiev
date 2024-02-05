@@ -2,7 +2,16 @@
 
 ## Some of my work:
 ---
-[FanMath Website](https://www.fanmath.net)
+### [FanMath Website](https://www.fanmath.net)
+<details>
+  <summary>Click to see more</summary>
+  [URL](https://www.fanmath.net)
+  #### Images
+<details>
+  images
+</details>
+</details>
+
 ---
 [Atlet Lider Website](https://atlet-lider.netlify.app)
 ---
