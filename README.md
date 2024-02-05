@@ -16,7 +16,6 @@
 </details>
 </details>
 
----
 [Atlet Lider Website](https://atlet-lider.netlify.app)
 <details>
   <summary>Click to see more</summary>
@@ -32,8 +31,16 @@
 
 </details>
 </details>
----
+
 [Hobby Mate Welcome Page](https://hobbymate.netlify.app)
----
+<details>
+  <summary>Click to see more</summary>
+  <br>
+  <p></p>
+<details>
+  <summary>What it looks like:</summary>
+    <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/hobbymate-lider-images/homepage.png" alt="Home Page">
+</details>
+</details>
 [Simple Finance Website](https://simple-finances.netlify.app)
 ---
