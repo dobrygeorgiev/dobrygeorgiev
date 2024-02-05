@@ -18,6 +18,20 @@
 
 ---
 [Atlet Lider Website](https://atlet-lider.netlify.app)
+<details>
+  <summary>Click to see more</summary>
+  <br>
+  <p></p>
+<details>
+  <summary>What it looks like:</summary>
+    <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/atlet-lider-images/homepage.png" alt="Home Page">
+    <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/atlet-lider-images/coachpage.png" alt="About the coach Page">
+    <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/atlet-lider-images/achievements-page.png" alt="Achievements Page">
+    <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/atlet-lider-images/gallery-page.png" alt="Gallery Page">
+    <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/atlet-lider-images/contacts-page.png" alt="Contacts Page">
+
+</details>
+</details>
 ---
 [Hobby Mate Welcome Page](https://hobbymate.netlify.app)
 ---
