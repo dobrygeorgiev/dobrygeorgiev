@@ -55,7 +55,7 @@
   <p></p>
 <details>
   <summary>What it looks like:</summary>
-    <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/tree/main/hobbymate-images" alt="Home Page">
+    <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/hobbymate-images/homepage.png" alt="Home Page">
 </details>
 </details>
 ---
