@@ -2,6 +2,9 @@
 ## My name is Dobry. I am a Web3 Security Researcher and Developer
 
 ## [Audits](https://github.com/dobrygeorgiev/Audits)
+<a href="https://t.me/dobrygeorgiev">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Ftelegram%2Flogo-telegram-4096.png&f=1&nofb=1&ipt=c90afc7354d8082eb3ef3333429533aa2f850b46856d688c48b5508b3a95efdc&ipo=images" alt="Reach out on Telegram" width="50">
+</a>
 ---
 ## Some of my Web2 work:
 
