@@ -1,7 +1,10 @@
 # Welcome to my GITHUB profile 👋
 ## My name is Dobry. I am a Web3 Security Researcher and Developer
-## Some of my work:
+
+## [Audits](https://github.com/dobrygeorgiev/Audits)
 ---
+## Some of my Web2 work:
+
 ### [FanMath Website](https://www.fanmath.net)
 <details>
   <summary>Click to see more</summary>
