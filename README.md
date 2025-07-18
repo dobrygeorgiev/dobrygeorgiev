@@ -1,5 +1,5 @@
 # Welcome to my GITHUB profile 👋
-## My name is Dobry. I am a Web3 Security Researcher and Developer
+## My name is Dobry. I am a Web3 Developer and Security Researcher
 
 ## [Audits](https://github.com/dobrygeorgiev/Audits)
 <a href="https://x.com/dobrygeorgiev">
