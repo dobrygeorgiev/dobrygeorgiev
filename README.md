@@ -10,6 +10,22 @@
 </a>
 
 ---
+## Some of my Web3 work:
+
+### [EthFetcher](https://github.com/dobrygeorgiev/eth-fetcher)
+<details>
+  <summary>Short description</summary>
+  <br>
+  <p>The Ethereum Fetcher is a Rust-based REST API server designed to fetch and store Ethereum transactions information. It provides endpoints to retrieve transaction details by their hashes, store them in a PostgreSQL database, and return the stored transactions. The server supports JWT-based authentication and user-specific transaction tracking. You can easily run the project on your local machine with docker using the makefile.</p>
+</details>
+
+### [EtherRaffle](https://github.com/dobrygeorgiev/EtherRaffle)
+<details>
+  <summary>Short description</summary>
+  <br>
+  <p>Ether Raffle is a decentralized raffle system where users can participate by depositing ETH. Once the raffle reaches a set number of participants, a random winner is selected, and the total ETH in the pool is allocated to the winner. <br><br> This project leverages Chainlink's Verifiable Random Function (VRF) for generating secure, verifiable random numbers, ensuring that the raffle outcome is fair and trustworthy.</p>
+</details>
+
 ## Some of my Web2 work:
 
 ### [FanMath Website](https://www.fanmath.net)
