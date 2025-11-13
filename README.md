@@ -42,6 +42,22 @@
 </details>
 </details>
 
+### [Simple Finance Website](https://simple-finances.netlify.app)
+<details>
+  <summary>Click to see more</summary>
+  <br>
+  <p>Discover the Simple Finance Website.</p>
+<details>
+  <summary>What it looks like:</summary>
+    <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/simple-finance-images/homepage.png" alt="Home Page">
+    <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/simple-finance-images/simple-it.png" alt="Simple-It Page">
+    <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/simple-finance-images/simple-law.png" alt="Simple-Law Page">
+    <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/simple-finance-images/simple-marketing.png" alt="Simple-Marketing Page">
+    <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/simple-finance-images/contacts.png" alt="Contacts Page">
+
+</details>
+</details>
+
 ### [Atlet Lider Website](https://atlet-lider.netlify.app)
 <details>
   <summary>Click to see more</summary>
@@ -59,23 +75,7 @@
 </details>
 </details>
 
-### [Simple Finance Website](https://simple-finances.netlify.app)
-<details>
-  <summary>Click to see more</summary>
-  <br>
-  <p>Discover the Simple Finance Website.</p>
-<details>
-  <summary>What it looks like:</summary>
-    <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/simple-finance-images/homepage.png" alt="Home Page">
-    <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/simple-finance-images/simple-it.png" alt="Simple-It Page">
-    <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/simple-finance-images/simple-law.png" alt="Simple-Law Page">
-    <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/simple-finance-images/simple-marketing.png" alt="Simple-Marketing Page">
-    <img src="https://github.com/Dobry-Georgiev/Dobry-Georgiev/blob/main/simple-finance-images/contacts.png" alt="Contacts Page">
-
-</details>
-</details>
-
-### [HobbyMate Welcome Page](https://hobbymate.netlify.app)
+### [HobbyMate](https://hobbymate.netlify.app)
 <details>
   <summary>Click to see more</summary>
   <br>
